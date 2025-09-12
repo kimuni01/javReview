@@ -8,7 +8,7 @@ public class FloatDoubleExample {
         System.out.println("var1 : " + var1);
         System.out.println("var2 : " + var2);
 
-        // square root of 10 literals
+        // square of 10 literals
         double var3 = 3e6;
         float var4 = 3e6F;
         double var5 = 2e-3;
