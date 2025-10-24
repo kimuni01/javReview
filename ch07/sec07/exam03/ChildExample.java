@@ -14,7 +14,7 @@ public class ChildExample {
          * parent.method3(); // impossible
          */
         
-        // forced type conversion
+        // forced type conversion = casting
         Child child = (Child) parent;
         child.field2 = "data2"; // possible
         child.method3(); // possible
